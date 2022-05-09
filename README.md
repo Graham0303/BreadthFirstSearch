@@ -9,7 +9,7 @@ To implement Breadth-First_Search ( BFS ) algorithm to find the route between an
 ## DESIGN STEPS
 
 ### STEP 1:
-Identify a location in the google map: Gudichettulu
+Identify a location in the google map: Asaripallam
 
 ### STEP 2:
 Select a specific number of nodes with distance
